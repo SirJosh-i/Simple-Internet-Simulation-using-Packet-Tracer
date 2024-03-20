@@ -116,5 +116,3 @@ git push origin master
 ```
 This will now work without any hiccups. 
 
-
-
