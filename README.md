@@ -32,5 +32,3 @@ GitHub: A web-based platform that is used to host repositories along with collab
 - pull: Opposite of pull; Download changes from the remote repo into your local machine.
 - status: Check which files need to be committed or is being tracked.
 - init: Creates a new repo from scratch in the current directory.
-
-
