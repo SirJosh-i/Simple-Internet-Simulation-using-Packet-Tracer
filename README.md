@@ -1,5 +1,4 @@
-# Understanding Git
-Let us start!
+# Let us first understand Git
 
 ## What is Git?
 
