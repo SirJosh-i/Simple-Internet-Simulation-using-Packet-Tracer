@@ -7,7 +7,7 @@
 
 ### Congrats! You have now successfully installed Packet tracer to your system.
 
-  - My Packet Tracer version: 8.2.2.0400 looks as:
+  - My Packet Tracer of version: 8.2.2.0400 looks as:
     ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/assets/69949528/6211341c-f73d-416a-a9c5-23e96f0cced1)
 
 
