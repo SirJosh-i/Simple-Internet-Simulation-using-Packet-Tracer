@@ -18,20 +18,20 @@
   ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Place_it_as_such%20-%20Cisco.png)
   
 ## 3. Connecting devices:
-  #### Router, Switch and Home Router:
+  ### Router, Switch and Home Router:
   - Choose **Connections** and Select: Copper Straight Through Wire.
   - Click on the Router, Select **GigabitEthernet0/0** and Connect it to the Switch **GigabitEthernet0/1**.
   - Again, Click on the Router, Select **GigabitEthernet0/1** and Connect it to the Home Router **GigabitEthernet0/1**.
     You can do either/or but, the router, switch and Home Router needs to be connected via GigabitEthernet.
     
-  #### Switch, PC and Servers:
-  ##### Switch and PC:
-  - Choose **Connections** and Select: Copper Straight Through Wire.
-  - Click on the Switch, Select **FastEthernet0/1** and Connect to PC1(In my case: Dell) - **FastEthernet0**.
-  - Click on the Switch, Select **FastEthernet0/2** and Connect to PC1(In my case: Lenovo) - **FastEthernet0**.
-    You can connect to any port of a Switch.
-  ##### Switch and Servers:
-  - Similarly, Connect to the servers using the ports available in Switch.
+  ### Switch, PC and Servers:
+  - Switch and PC:
+    - Choose **Connections** and Select: Copper Straight Through Wire.
+    - Click on the Switch, Select **FastEthernet0/1** and Connect to PC1(In my case: Dell) - **FastEthernet0**.
+    - Click on the Switch, Select **FastEthernet0/2** and Connect to PC1(In my case: Lenovo) - **FastEthernet0**.
+      You can connect to any port of a Switch.
+  - Switch and Servers:
+    - Similarly, Connect to the servers using the ports available in Switch.
 
 ## 4. Configuring devices:
   ### PCs: Lenovo and Dell
