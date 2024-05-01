@@ -7,3 +7,12 @@
   ### The Packet Tracer version: 8.2.2.0400
   ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/assets/69949528/6211341c-f73d-416a-a9c5-23e96f0cced1)
 
+## 2. Add the devices given below:
+  - Two PC
+  - One Switch(2960-24TT)
+  - One Router(1941)
+  - Two Server-PT
+  - One HomeRouter or Wireless Router
+  - One Laptop-PT
+  ### Now, place them as:
+  ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Place_it_as_such%20-%20Cisco.png)
