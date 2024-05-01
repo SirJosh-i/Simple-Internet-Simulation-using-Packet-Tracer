@@ -86,7 +86,6 @@
 - On the bottom right - Click on Simulation.
 - A Simulation Panel will open on the right side.
 - On the edge, where the scroll lies; Resize the panel by dragging mouse to the left.
-![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Simulation%20Panel_Resize%20-%20Cisco.png)
 - On the topbar_navigation, Select a packet(Referred in Network Layer) to send or a frame(Referred in Data Link Layer)
 ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Add-Simple-PDU.png)
 - Click on any PC or a Laptop and also select the endpoint i.e. To which device you want the selected packet to reach.
