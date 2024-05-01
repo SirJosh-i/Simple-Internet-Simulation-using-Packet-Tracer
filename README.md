@@ -6,6 +6,6 @@
 - Download the latest version and install it.
 ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/assets/69949528/f02d720e-2b28-4fda-9a30-ace28bc0d47b)
 ### Congrats! You have successfully installed Packet tracer.
-Packet Tracer of version: 8.2.2.0400:
-![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/assets/69949528/6211341c-f73d-416a-a9c5-23e96f0cced1)
+  #### Packet Tracer of version: 8.2.2.0400:
+  ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/assets/69949528/6211341c-f73d-416a-a9c5-23e96f0cced1)
 
