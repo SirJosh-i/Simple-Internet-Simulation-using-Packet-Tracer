@@ -10,4 +10,5 @@
   - My Packet Tracer of version: 8.2.2.0400 looks as:
     ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/assets/69949528/6211341c-f73d-416a-a9c5-23e96f0cced1)
 
-
+# Our goal is to create this model:
+![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Simple%20Internet%20-%20Cisco%20Model.png)
