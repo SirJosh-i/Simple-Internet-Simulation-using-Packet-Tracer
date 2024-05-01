@@ -83,13 +83,20 @@
     ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Server_DNS%20-%20Config.png)
 
 ## Simulation
-- On the bottom right - Click on Simulation.
-- A Simulation Panel will open on the right side.
-- On the edge, where the scroll lies; Resize the panel by dragging mouse to the left.
-- On the topbar_navigation, Select a packet(Referred in Network Layer)
-![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Add-Simple-PDU.png)
-- Click on any PC or a Laptop and also select the endpoint i.e. To which device you want the selected packet to reach.
-- Now in the Simulation Panel, Click on Play.
-### The Simulation starts and if you have followed my directions step-by-step, the build will yield --> Successful
-- I sent the packet from Lenovo to MSI (PC to Laptop)
-![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Lenovo%20to%20MSI%20-%20Successful.png)
+  ### Connecting to the Webserver:
+  - Click on any PC or a laptop.
+  - Navigate to Desktop > Web Browser.
+  - In the URL section, type in your Webserver's IPAddress and Click on **Go**; The index.html in Webserver will be displayed.
+  ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Webserver%20-%20Surf.png)
+
+  ### Packet Trace:
+  - On the bottom right - Click on Simulation.
+  - A Simulation Panel will open on the right side.
+  - On the edge, where the scroll lies; Resize the panel by dragging mouse to the left.
+  - On the topbar_navigation, Select a packet(Referred in Network Layer)
+  ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Add-Simple-PDU.png)
+  - Click on any PC or a Laptop and also select the endpoint i.e. To which device you want the selected packet to reach.
+  - Now in the Simulation Panel, Click on Play.
+  - The Simulation starts and if you have followed my directions step-by-step, the build will yield --> Successful
+  - I sent the packet from Lenovo to MSI (PC to Laptop)
+  ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Lenovo%20to%20MSI%20-%20Successful.png)
