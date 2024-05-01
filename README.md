@@ -1,6 +1,6 @@
-# Our goal is to create this model:
 ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Simple%20Internet%20-%20Cisco%20Model.png)
 
+# Let's get started!
 ## 1. Installing Packet Tracer
 - Open your browser and surf to: [This site](https://www.computernetworkingnotes.com/ccna-study-guide/download-packet-tracer-for-windows-and-linux.html)
 - Download the latest version: ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/assets/69949528/f02d720e-2b28-4fda-9a30-ace28bc0d47b)
