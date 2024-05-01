@@ -14,7 +14,7 @@
   - Two Server-PT
   - One HomeRouter or Wireless Router
   - One Laptop-PT
-  ### Now, place them as (Or whatever you're comfortable with):
+  ### Place them as: (Or whichever way, you're comfortable with):
   ![image](https://github.com/SirJosh-i/Simple-Internet-Simulation-using-Packet-Tracer/blob/master/Screenshots/Place_it_as_such%20-%20Cisco.png)
   
 ## 3. Connecting devices:
